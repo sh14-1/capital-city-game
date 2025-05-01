@@ -1,0 +1,33 @@
+DEFINE a dictionary called capital_cities with countries as keys and capital cities as values
+
+DISPLAY "Welcome to the Capital City Game! Press 1 to start, Press 2 to quit"
+GET user input as welcome_page
+
+WHILE welcome_page is not "1" AND not "2"
+    DISPLAY "Invalid input. Please try again."
+    GET user input as welcome_page
+
+IF welcome_page is "1" THEN
+    DISPLAY "Starting the game..."
+
+    SET available_countries to a list of all keys in capital_cities
+    SET score to 0
+
+    REPEAT 20 TIMES:
+        SELECT a random country from available_countries
+        REMOVE the selected country from available_countries
+
+        DISPLAY "What is the capital city of [country]?"
+        GET user input as user_answer
+
+        IF user_answer (lowercased and stripped) EQUALS the correct capital (lowercased)
+            DISPLAY "Correct!"
+            INCREMENT score by 1
+        ELSE
+            DISPLAY "Wrong! The correct answer is [correct capital]"
+
+    DISPLAY "You got [score] out of 20 correct!"
+    DISPLAY "Thanks for playing!"
+
+ELSE IF welcome_page is "2" THEN
+    DISPLAY "Thanks for visiting! Goodbye!"
