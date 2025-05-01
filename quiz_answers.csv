@@ -1,0 +1,383 @@
+
+Country,User Answer,Correct Answer,Result
+Germany,l,Berlin,Wrong
+Mexico,,Mexico City,Wrong
+United States,l,Washington DC,Wrong
+Australia,l,Canberra,Wrong
+South Korea,l,Seoul,Wrong
+Bandladesh,l,Dhaka,Wrong
+North Korea,l,Pyongyang,Wrong
+Ukraine,g,Kiev,Wrong
+France,g,Paris,Wrong
+Japan,g,Tokyo,Wrong
+United Kingdom,g,London,Wrong
+New Zealand,f,Wellington,Wrong
+Egypt,f,Cairo,Wrong
+China,f,Beijing,Wrong
+Brazil,f,Brasilia,Wrong
+United Arab Emirates,f,Abu Dhabi,Wrong
+Sweden,f,Stockholm,Wrong
+India,f,New Delhi,Wrong
+Russia,f,Moscow,Wrong
+Canada,f,Ottawa,Wrong
+
+Country,User Answer,Correct Answer,Result
+United Arab Emirates,Abu Dhabi,Abu Dhabi,Correct
+North Korea,Pyongyang,Pyongyang,Correct
+Germany,Berlin,Berlin,Correct
+India,New Delhi,New Delhi,Correct
+Italy,Rome,Rome,Correct
+Brazil,Brasilia,Brasilia,Correct
+Bandladesh,Dhaka,Dhaka,Correct
+Ukraine,Kiev,Kiev,Correct
+Egypt,,Cairo,Wrong
+United States,Washington DC,Washington DC,Correct
+Japan,Tokyo,Tokyo,Correct
+Mexico,Mexico City,Mexico City,Correct
+Canada,Ottawa,Ottawa,Correct
+Russia,Moscow,Moscow,Correct
+South Korea,Seoul,Seoul,Correct
+Australia,Canberra,Canberra,Correct
+United Kingdom,London,London,Correct
+France,Paris,Paris,Correct
+Sweden,Stockholm,Stockholm,Correct
+China,Beijing,Beijing,Correct
+
+Country,User Answer,Correct Answer,Result
+Egypt,idk lol,Cairo,Wrong
+France,Paris,Paris,Correct
+Russia,,Moscow,Wrong
+China,,Beijing,Wrong
+Italy,,Rome,Wrong
+United States,,Washington DC,Wrong
+United Arab Emirates,,Abu Dhabi,Wrong
+North Korea,,Pyongyang,Wrong
+South Korea,,Seoul,Wrong
+Sweden,,Stockholm,Wrong
+Canada,,Ottawa,Wrong
+Brazil,,Brasilia,Wrong
+Ukraine,,Kiev,Wrong
+New Zealand,,Wellington,Wrong
+Bandladesh,,Dhaka,Wrong
+India,,New Delhi,Wrong
+Japan,,Tokyo,Wrong
+United Kingdom,,London,Wrong
+Australia,,Canberra,Wrong
+Mexico,,Mexico City,Wrong
+
+"Username,Country",User Answer,Correct Answer,Result
+csvtest1,South Korea,Seoul,Seoul,Correct
+csvtest1,New Zealand,Wellington,Wellington,Correct
+csvtest1,Italy,Rome,Rome,Correct
+csvtest1,Bandladesh,Dhaka,Dhaka,Correct
+csvtest1,India,New Delhi,New Delhi,Correct
+csvtest1,United Kingdom,London,London,Correct
+csvtest1,United Arab Emirates,Abu Dabhi,Abu Dhabi,Wrong
+csvtest1,Japan,Tokyo,Tokyo,Correct
+csvtest1,Sweden,Stockholm,Stockholm,Correct
+csvtest1,Australia,Canberra,Canberra,Correct
+csvtest1,Brazil,Brasilia,Brasilia,Correct
+csvtest1,Germany,Berlin,Berlin,Correct
+csvtest1,Russia,Moscow,Moscow,Correct
+csvtest1,Canada,Ottawa,Ottawa,Correct
+csvtest1,China,Beijing,Beijing,Correct
+csvtest1,Ukraine,Kiev,Kiev,Correct
+csvtest1,North Korea,Seoul,Pyongyang,Wrong
+csvtest1,France,Paris,Paris,Correct
+csvtest1,United States,Washington DC,Washington DC,Correct
+csvtest1,Egypt,idk lmao,Cairo,Wrong
+
+"Username,Country",User Answer,Correct Answer,Result
+
+csvtest2,Russia,Moscow,Moscow,Correct
+csvtest2,United States,Washington DC,Washington DC,Correct
+csvtest2,United Arab Emirates,Abu Dhabi,Abu Dhabi,Correct
+csvtest2,Brazil,Brasilia,Brasilia,Correct
+csvtest2,Australia,Canberra,Canberra,Correct
+csvtest2,South Korea,Seoul,Seoul,Correct
+csvtest2,New Zealand,Washington,Wellington,Wrong
+csvtest2,Italy,Rome,Rome,Correct
+csvtest2,Japan,Tokyo,Tokyo,Correct
+csvtest2,United Kingdom,Londojn,London,Wrong
+csvtest2,China,Beijing,Beijing,Correct
+csvtest2,North Korea,Pyongyang,Pyongyang,Correct
+csvtest2,France,Paris,Paris,Correct
+csvtest2,Canada,Ottawa,Ottawa,Correct
+csvtest2,India,New Delhi,New Delhi,Correct
+csvtest2,Sweden,Stockholm,Stockholm,Correct
+csvtest2,Mexico,Mexico City,Mexico City,Correct
+csvtest2,Germany,Berlin,Berlin,Correct
+csvtest2,Egypt,idk,Cairo,Wrong
+csvtest2,Bandladesh,Dhaka,Dhaka,Correct
+
+Username,Country,User Answer,Correct Answer,Result
+
+csvtest3,South Korea,Seoul,Seoul,Correct
+csvtest3,Australia,Canberra,Canberra,Correct
+csvtest3,New Zealand,Washington,Wellington,Wrong
+csvtest3,Sweden,Stockholm,Stockholm,Correct
+csvtest3,Brazil,Brasilia,Brasilia,Correct
+csvtest3,Japan,Tokyo,Tokyo,Correct
+csvtest3,United Kingdom,London,London,Correct
+csvtest3,North Korea,Pyongyang,Pyongyang,Correct
+csvtest3,Germany,Berlin,Berlin,Correct
+csvtest3,Canada,Ottawa,Ottawa,Correct
+csvtest3,India,New Delhi,New Delhi,Correct
+csvtest3,United Arab Emirates,Abu Dhabi,Abu Dhabi,Correct
+csvtest3,Egypt,idk,Cairo,Wrong
+csvtest3,Bandladesh,Dhaka,Dhaka,Correct
+csvtest3,Italy,Rome,Rome,Correct
+csvtest3,Russia,Moscow,Moscow,Correct
+csvtest3,United States,Washington DC,Washington DC,Correct
+csvtest3,China,Beijing,Beijing,Correct
+csvtest3,Mexico,Mexico City,Mexico City,Correct
+csvtest3,Ukraine,Kiev,Kiev,Correct
+
+Username,Country,User Answer,Correct Answer,Result
+
+chris,United Arab Emirates,dubai,Abu Dhabi,Wrong
+chris,Australia,Canberra,Canberra,Correct
+chris,Mexico,,Mexico City,Wrong
+chris,Bandladesh,,Dhaka,Wrong
+chris,South Korea,,Seoul,Wrong
+chris,United Kingdom,,London,Wrong
+chris,France,,Paris,Wrong
+chris,New Zealand,,Wellington,Wrong
+chris,India,,New Delhi,Wrong
+chris,Ukraine,,Kyiv,Wrong
+chris,Italy,,Rome,Wrong
+chris,Russia,,Moscow,Wrong
+chris,China,,Beijing,Wrong
+chris,Egypt,,Cairo,Wrong
+chris,North Korea,,Pyongyang,Wrong
+chris,Japan,,Tokyo,Wrong
+chris,Canada,,Ottawa,Wrong
+chris,Sweden,,Stockholm,Wrong
+chris,Brazil,,Brasilia,Wrong
+chris,Germany,,Berlin,Wrong
+
+Username,Country,User Answer,Correct Answer,Result
+
+shane2,Brazil,X,Brasilia,Wrong
+shane2,United Arab Emirates,x,Abu Dhabi,Wrong
+shane2,Mexico,x,Mexico City,Wrong
+shane2,Germany,x,Berlin,Wrong
+shane2,United States,x,Washington DC,Wrong
+shane2,Canada,x,Ottawa,Wrong
+shane2,South Korea,x,Seoul,Wrong
+shane2,Russia,x,Moscow,Wrong
+shane2,North Korea,x,Pyongyang,Wrong
+shane2,Ukraine,x,Kyiv,Wrong
+shane2,China,x,Beijing,Wrong
+shane2,Egypt,x,Cairo,Wrong
+shane2,Japan,x,Tokyo,Wrong
+shane2,Bandladesh,x,Dhaka,Wrong
+shane2,India,x,New Delhi,Wrong
+shane2,United Kingdom,x,London,Wrong
+shane2,Italy,x,Rome,Wrong
+shane2,Sweden,x,Stockholm,Wrong
+shane2,France,x,Paris,Wrong
+shane2,Australia,x,Canberra,Wrong
+
+Username,Country,User Answer,Correct Answer,Result
+
+lingling,Sweden,,Stockholm,Wrong
+lingling,Japan,,Tokyo,Wrong
+lingling,India,,New Delhi,Wrong
+lingling,Brazil,,Brasilia,Wrong
+lingling,Italy,,Rome,Wrong
+lingling,South Korea,,Seoul,Wrong
+lingling,China,,Beijing,Wrong
+lingling,Bandladesh,,Dhaka,Wrong
+lingling,Australia,,Canberra,Wrong
+lingling,France,,Paris,Wrong
+lingling,New Zealand,,Wellington,Wrong
+lingling,Ukraine,,Kyiv,Wrong
+lingling,Germany,,Berlin,Wrong
+lingling,North Korea,,Pyongyang,Wrong
+lingling,Canada,,Ottawa,Wrong
+lingling,Russia,,Moscow,Wrong
+lingling,Mexico,,Mexico City,Wrong
+lingling,United Kingdom,,London,Wrong
+lingling,United States,,Washington DC,Wrong
+lingling,United Arab Emirates,,Abu Dhabi,Wrong
+
+Username,Country,User Answer,Correct Answer,Result
+
+fff,United Kingdom,London,London,Correct
+fff,Ukraine,Kyiv,Kyiv,Correct
+fff,Brazil,Brasilia,Brasilia,Correct
+fff,United States,Washington DC,Washington DC,Correct
+fff,India,New Delhi,New Delhi,Correct
+fff,South Korea,Seoul,Seoul,Correct
+fff,Russia,Moscow,Moscow,Correct
+fff,Japan,Tokyo,Tokyo,Correct
+fff,Germany,Berlin,Berlin,Correct
+fff,Bandladesh,Dhaka,Dhaka,Correct
+fff,Egypt,Cairo,Cairo,Correct
+fff,North Korea,Pyongyang,Pyongyang,Correct
+fff,New Zealand,Wellington,Wellington,Correct
+fff,Mexico,Mexico City,Mexico City,Correct
+fff,China,Beijing,Beijing,Correct
+fff,Sweden,Stockholm,Stockholm,Correct
+fff,France,Paris,Paris,Correct
+fff,Italy,Rome,Rome,Correct
+fff,Canada,Ottawa,Ottawa,Correct
+fff,Australia,Canberra,Canberra,Correct
+
+Username,Country,User Answer,Correct Answer,Result
+
+
+Username,Country,User Answer,Correct Answer,Result
+
+
+Username,Country,User Answer,Correct Answer,Result
+
+
+Username,Country,User Answer,Correct Answer,Result
+
+fff,Russia,ad,Moscow,Wrong
+fff,Canada,,Ottawa,Wrong
+fff,North Korea,d,Pyongyang,Wrong
+fff,Australia,ad,Canberra,Wrong
+fff,Germany,,Berlin,Wrong
+fff,United States,,Washington DC,Wrong
+fff,United Arab Emirates,Abu Dabhi,Abu Dhabi,Wrong
+fff,New Zealand,Wellington,Wellington,Correct
+fff,Sweden,,Stockholm,Wrong
+fff,Brazil,,Brasilia,Wrong
+fff,Japan,,Tokyo,Wrong
+fff,India,,New Delhi,Wrong
+fff,Bandladesh,,Dhaka,Wrong
+fff,United Kingdom,,London,Wrong
+fff,Mexico,,Mexico City,Wrong
+fff,South Korea,,Seoul,Wrong
+fff,Italy,,Rome,Wrong
+fff,France,,Paris,Wrong
+fff,Egypt,,Cairo,Wrong
+fff,Ukraine,,Kyiv,Wrong
+
+Username,Country,User Answer,Correct Answer,Result
+
+meow,United Kingdom,flf,London,Wrong
+meow,China,,Beijing,Wrong
+meow,Germany,f,Berlin,Wrong
+meow,United States,,Washington DC,Wrong
+meow,Mexico,exit,Mexico City,Wrong
+meow,Russia,exit,Moscow,Wrong
+meow,New Zealand,exit,Wellington,Wrong
+meow,North Korea,exit,Pyongyang,Wrong
+meow,Canada,"/usr/local/bin/python3 ""/Users/shanehailes/Desktop/School stuff/Software Engineering/python/project/project.py""",Ottawa,Wrong
+meow,Egypt,dfdddd,Cairo,Wrong
+meow,South Korea,d,Seoul,Wrong
+meow,India,d,New Delhi,Wrong
+meow,Japan,,Tokyo,Wrong
+meow,Bandladesh,d,Dhaka,Wrong
+meow,Ukraine,d,Kyiv,Wrong
+meow,Australia,d,Canberra,Wrong
+meow,France,,Paris,Wrong
+meow,United Arab Emirates,d,Abu Dhabi,Wrong
+meow,Italy,,Rome,Wrong
+meow,Sweden,dd,Stockholm,Wrong
+
+Username,Country,User Answer,Correct Answer,Result
+
+
+Username,Country,User Answer,Correct Answer,Result
+
+meow,United States,washington dc,Washington DC,Correct
+
+Username,Country,User Answer,Correct Answer,Result
+
+hello,United Kingdom,f,London,Wrong
+hello,Canada,f,Ottawa,Wrong
+hello,Bandladesh,f,Dhaka,Wrong
+hello,South Korea,f,Seoul,Wrong
+hello,India,f,New Delhi,Wrong
+hello,Germany,f,Berlin,Wrong
+hello,Brazil,f,Brasilia,Wrong
+hello,United States,f,Washington DC,Wrong
+hello,Australia,f,Canberra,Wrong
+hello,Japan,f,Tokyo,Wrong
+hello,Egypt,f,Cairo,Wrong
+hello,United Arab Emirates,f,Abu Dhabi,Wrong
+hello,Italy,f,Rome,Wrong
+hello,New Zealand,f,Wellington,Wrong
+hello,China,f,Beijing,Wrong
+hello,Russia,f,Moscow,Wrong
+hello,France,f,Paris,Wrong
+hello,Sweden,f,Stockholm,Wrong
+hello,Ukraine,f,Kyiv,Wrong
+hello,North Korea,f,Pyongyang,Wrong
+
+Username,Country,User Answer,Correct Answer,Result
+
+f,Bandladesh,"/usr/local/bin/python3 ""/users/shanehailes/desktop/school stuff/software engineering/python/project/project.py""",Dhaka,Wrong
+f,United Arab Emirates,1dc,Abu Dhabi,Wrong
+f,New Zealand,d,Wellington,Wrong
+f,India,,New Delhi,Wrong
+f,China,d,Beijing,Wrong
+f,Brazil,dd,Brasilia,Wrong
+f,Russia,d,Moscow,Wrong
+f,South Korea,d,Seoul,Wrong
+f,Australia,d,Canberra,Wrong
+f,Mexico,d,Mexico City,Wrong
+f,Canada,d,Ottawa,Wrong
+f,United Kingdom,d,London,Wrong
+f,Germany,d,Berlin,Wrong
+f,France,d,Paris,Wrong
+f,United States,d,Washington DC,Wrong
+f,Ukraine,d,Kyiv,Wrong
+f,Egypt,d,Cairo,Wrong
+f,North Korea,d,Pyongyang,Wrong
+f,Japan,,Tokyo,Wrong
+f,Italy,d,Rome,Wrong
+
+Username,Country,User Answer,Correct Answer,Result
+
+d,Canada,d,Ottawa,Wrong
+d,Brazil,d,Brasilia,Wrong
+d,Australia,dexit,Canberra,Wrong
+
+Username,Country,User Answer,Correct Answer,Result
+
+f,United States,"/usr/local/bin/python3 ""/users/shanehailes/desktop/school stuff/software engineering/python/project/project.py""",Washington DC,Wrong
+
+Username,Country,User Answer,Correct Answer,Result
+
+d,Canada,"/usr/local/bin/python3 ""/users/shanehailes/desktop/school stuff/software engineering/python/project/project.py""",Ottawa,Wrong
+
+Username,Country,User Answer,Correct Answer,Result
+
+
+Username,Country,User Answer,Correct Answer,Result
+
+
+Username,Country,User Answer,Correct Answer,Result
+
+
+Username,Country,User Answer,Correct Answer,Result
+
+d,Australia,"/usr/local/bin/python3 ""/users/shanehailes/desktop/school stuff/software engineering/python/project/project.py""",Canberra,Wrong
+d,India,new delhi,New Delhi,Correct
+d,China,beijing,Beijing,Correct
+d,Japan,tokyo,Tokyo,Correct
+d,Italy,rome,Rome,Correct
+d,Mexico,new   mexico,Mexico City,Wrong
+d,South Korea,se ou l,Seoul,Wrong
+d,Ukraine,kyiv .,Kyiv,Wrong
+d,France,paris,Paris,Correct
+d,North Korea,pyongyang,Pyongyang,Correct
+d,United Arab Emirates,,Abu Dhabi,Wrong
+d,Canada,,Ottawa,Wrong
+d,Sweden,,Stockholm,Wrong
+d,Egypt,,Cairo,Wrong
+d,Germany,,Berlin,Wrong
+d,Russia,,Moscow,Wrong
+d,United States,,Washington DC,Wrong
+d,United Kingdom,,London,Wrong
+d,Brazil,,Brasilia,Wrong
+d,New Zealand,,Wellington,Wrong
+
+Username,Country,User Answer,Correct Answer,Result
+
